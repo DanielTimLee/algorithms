@@ -1,5 +1,2 @@
-#include "160411 C_baseball/1.c"
-
-int main() {
-    c_baseball();
-}
+#include <stdio.h>
+int main(){printf("Hello World!");}
